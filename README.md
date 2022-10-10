@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />, I'm <a href="https://www.linkedin.com/in/ashish-namdeo-35a919195/" rel="nofollow">Ashish!</a>
 
 <!--
 **AshishNamdeo14/AshishNamdeo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
