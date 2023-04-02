@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs,Angular, etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshishNcamdeo14?tab=repositories](https://github.com/AshishNcamdeo14?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AshishNamdeo14?tab=repositories](https://github.com/AshishNamdeo14?tab=repositories)
 
 - 📝 I regularly write articles on [https://crazym416.com/](https://crazym416.com/)
 
