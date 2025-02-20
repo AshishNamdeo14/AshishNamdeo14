@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs,Angular, etc**
+- 🌱 I’m currently learning **AI,ML etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishNamdeo14?tab=repositories](https://github.com/AshishNamdeo14?tab=repositories)
 
 - 📝 I regularly write articles on [https://crazym416.com/](https://crazym416.com/)
 
-- 💬 Ask me about **JS,HTML,CSS**
+- 💬 Ask me about **JS, HTML, CSS, ReactJs, Angular**
 
 - 📫 How to reach me **ashishnamdev14@gmail.com**
 
