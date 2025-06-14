@@ -1,22 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ashish!</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey+There!+I'm+Ashish+Namdeo+%F0%9F%91%8B;Engineer+%7C+Creator+%7C+Tech+Explorer+%F0%9F%9A%80;Welcome+to+my+GitHub+Universe!" alt="Typing SVG" />
+</h1>
 
-- 🌱 I’m currently learning **AI,ML etc**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AshishNamdeo14?tab=repositories](https://github.com/AshishNamdeo14?tab=repositories)
-
-- 📝 I regularly write articles on [https://crazym416.com/](https://crazym416.com/)
-
-- 💬 Ask me about **JS, HTML, CSS, ReactJs, Angular**
-
-- 📫 How to reach me **ashishnamdev14@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashish-namdeo-35a919195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishnamdeo" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## [![GitHub Streak](https://streak-stats.demolab.com/?user=AshishNamdeo14)](https://git.io/streak-stats)
+---
+
+## 🚀 About Me
+
+- 🚀 Passionate software engineer who thrives on building scalable systems and crafting elegant solutions to complex problems.
+- 💻 My tech toolbox includes Java, Spring Boot, ReactJS, Next.js, Node.js, MongoDB, MySQL, and a growing love for AI/ML.
+- 🧠 I enjoy digging into System Design (HLD & LLD), DSA, and exploring the internals of how systems actually work.
+- 🌐 Currently exploring open-source contributions and building tools that make life easier for developers and users alike.
+- 📘 I actively share knowledge on data structures, architecture patterns, and productivity hacks through curated repos and blogs.
+- 🤝 Let’s connect and collaborate on meaningful projects that push boundaries and spark innovation!
+
+<p align="center">
+  <a href="https://github.com/AshishNamdeo" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/github/followers/AshishNamdeo?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717" 
+      alt="GitHub Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ashishnamdeo" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashishnamdev14@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.shields.io/badge/Email-Write%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email" />
+  </a>
+</p>
+
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,java,python,mongodb,git,figma,flutter" />
+</div>
+
+---
+
+## 📈 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshishNamdeo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshishNamdeo&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishNamdeo&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📍 Fun Fact
+
+> 🧠 *"I write code like I cook – with love, creativity, and a little spice 🌶️!"*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+---
+
+<p align="center">
+  <b>Made with 🩵 by Ashish Namdeo</b>
+</p>
