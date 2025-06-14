@@ -19,13 +19,13 @@
 - 🤝 Let’s connect and collaborate on meaningful projects that push boundaries and spark innovation!
 
 <p align="center">
-  <a href="https://github.com/AshishNamdeo" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/AshishNamdeo14" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/github/followers/AshishNamdeo?label=GitHub&style=for-the-badge&logo=github&logoColor=white&color=181717" 
       alt="GitHub Followers" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashishnamdeo" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/ashishnamdeo16" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn" />
