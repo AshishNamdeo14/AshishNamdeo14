@@ -15,7 +15,7 @@
 - 💻 My tech toolbox includes Java, Spring Boot, ReactJS, Next.js, Node.js, MongoDB, MySQL, and a growing love for AI/ML.
 - 🧠 I enjoy digging into System Design (HLD & LLD), DSA, and exploring the internals of how systems actually work.
 - 🌐 Currently exploring open-source contributions and building tools that make life easier for developers and users alike.
-- 📘 I actively share knowledge on data structures, architecture patterns, and productivity hacks through curated repos and blogs.
+- 📘 I actively share knowledge on data structures and architecture patterns through curated repos and blogs.
 - 🤝 Let’s connect and collaborate on meaningful projects that push boundaries and spark innovation!
 
 <p align="center">
